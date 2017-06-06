@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for type date: "s"INSERT INTO antecedente(antecedente_tabaquismo,antecedente_alcohol,antecedente_heredidarias,antecedente_patologica,antecedente_no_patologica,antecedente_sexo,antecedente_fecha_nac,paciente_id,sangre_id) VALUES ('s','s','s','s','s','s','s','40','1');

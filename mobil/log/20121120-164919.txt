@@ -1,0 +1,3 @@
+ERROR:  column "consulta_id" does not exist
+LINE 1: SELECT consulta_id FROM antecedente WHERE 1=1 ORDER BY antec...
+               ^SELECT consulta_id FROM antecedente WHERE 1=1 ORDER BY antecedente_id;

@@ -1,0 +1,1 @@
+ERROR:  el valor null para la columna «usua_login» viola la restricción not nullINSERT INTO usuario(usua_clave,usua_nombre,usua_mail) VALUES ('571d9b939375890a12601a5678d0824db7403e2b','paulocpd','paulocpd@hotmail.com');

@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for integer: ""UPDATE antecedente SET antecedente_tabaquismo = 'n',antecedente_sexo = 'n',antecedente_fecha_nac = '18/12/2012',paciente_id = '44',sangre_id = '3' WHERE antecedente_id = '';

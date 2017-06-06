@@ -1,0 +1,1 @@
+ERROR:  null value in column "sangre_id" violates not-null constraintINSERT INTO antecedente(antecedente_tabaquismo,antecedente_patologica,antecedente_sexo,paciente_id) VALUES ('s','','s','43');

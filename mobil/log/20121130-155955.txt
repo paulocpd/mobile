@@ -1,0 +1,3 @@
+ERROR:  syntax error at or near "="
+LINE 1: ...CT antecedente_id FROM antecedente WHERE 1=1 AND  = '41' ORD...
+                                                             ^SELECT antecedente_id FROM antecedente WHERE 1=1 AND  = '41' ORDER BY antecedente_id;

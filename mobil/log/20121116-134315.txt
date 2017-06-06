@@ -1,0 +1,1 @@
+ERROR:  null value in column "paciente_nombre" violates not-null constraintINSERT INTO paciente(usuario_id) VALUES ('34');

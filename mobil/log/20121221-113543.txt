@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for type date: "25"SELECT consulta_id FROM consulta WHERE 1=1 AND consulta_fecha = '25' AND paciente_id = '43' AND usuario_id = '38' ORDER BY consulta_id;

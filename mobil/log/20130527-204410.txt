@@ -1,0 +1,3 @@
+ERROR:  la sintaxis de entrada no es válida para tipo date: «20:44:10»
+LINE 1: ...,paciente_id,usuario_id) VALUES ('b','a','ba','C','20:44:10'...
+                                                             ^INSERT INTO consulta(consulta_motivo,consulta_sintomas,consulta_diagnostico,consulta_tratamiento,consulta_fecha,paciente_id,usuario_id) VALUES ('b','a','ba','C','20:44:10','5','7');

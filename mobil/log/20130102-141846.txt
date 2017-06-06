@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for integer: "31-12-2013"SELECT consulta_id FROM consulta WHERE 1=1 AND consulta_id = '31-12-2013' AND paciente_id = '45' AND usuario_id = '38' ORDER BY consulta_id;

@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for integer: "usuario_id"SELECT paciente_id FROM paciente WHERE 1=1 AND paciente_ci = '12730378' AND usuario_id = 'usuario_id' ORDER BY paciente_id;

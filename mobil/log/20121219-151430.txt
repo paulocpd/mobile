@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for type date: "12//2/19/1"SELECT consulta_id FROM consulta WHERE 1=1 AND consulta_fecha = '12//2/19/1' AND usuario_id = '38' ORDER BY consulta_id;

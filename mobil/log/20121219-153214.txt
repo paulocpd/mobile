@@ -1,0 +1,1 @@
+ERROR:  invalid input syntax for type date: "12/-2/04-1"INSERT INTO consulta(consulta_sintomas,consulta_diagnostico,consulta_tratamiento,consulta_fecha,paciente_id,usuario_id) VALUES ('2','3','4','12/-2/04-1','43','38');
